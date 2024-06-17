@@ -19,5 +19,5 @@ To find the best-performing model, we tested various algorithms. After rigorous 
 **Final Model:**
 Our final model, the SGDClassifier, was developed and fine-tuned to capture the intricate patterns in the data. We are confident that this model is well-suited for making accurate predictions about the survivors.
 
-**Conclusion**
+**Conclusion**<br>
 Throughout this project, our approach was guided by thorough data analysis and inspired by influential resources. We successfully developed a robust predictive model, demonstrating the effectiveness of our data preprocessing, feature engineering, and model selection strategies.
