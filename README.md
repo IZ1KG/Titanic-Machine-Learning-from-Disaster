@@ -5,10 +5,10 @@ In this project, we aimed to build a robust predictive model by analyzing a data
 Data Preprocessing
 Our initial step was to clean and prepare the data for analysis. We:
 
-Identified and dropped unnecessary features
-Filled in missing values
-Added new relevant features
-This preprocessing ensured that our dataset was complete and ready for effective modeling.
+-Identified and dropped unnecessary features
+-Filled in missing values
+-Added new relevant features
+-This preprocessing ensured that our dataset was complete and ready for effective modeling.
 
 Feature Engineering
 We then focused on enhancing our dataset through feature engineering. By analyzing the data and leveraging insights from influential notebooks and visualizations, we discovered and added features that significantly improved our model's accuracy.
